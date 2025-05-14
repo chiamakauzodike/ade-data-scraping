@@ -1,0 +1,91 @@
+Rank,Institution,Location,Continent,Founded,Affiliation,Distance/In-Person[a],Enrollment,Link
+1,Indira Gandhi National Open University,"New Delhi, India",Asia,1985,Public,Distance/In-Person,7140000,https://en.wikipedia.org/wiki/India
+2,"National University, Bangladesh","Gazipur, Bangladesh",Asia,1992,Public,In-Person,3425832,https://en.wikipedia.org/wiki/Bangladesh
+3,Anadolu University,"Eskişehir, Turkey",Asia,1958,Public,Distance/In-Person,1974343,https://en.wikipedia.org/wiki/Turkey
+4,California Community Colleges,"California, United States",North America,1967,Public,In-Person,1800000,https://en.wikipedia.org/wiki/United_States
+5,Islamic Azad University,Iran,Asia,1982,Private,In-Person,1778000,https://en.wikipedia.org/wiki/Iran
+6,Allama Iqbal Open University,"Islamabad, Pakistan",Asia,1974,Public,Distance/In-Person,1027000,https://en.wikipedia.org/wiki/Pakistan
+7,"Laureate Education, Inc.",International,Global,1999,Private,Distance/In-Person,875000,https://en.wikipedia.org/wiki/United_States
+8,Bangladesh Open University,"Gazipur, Bangladesh",Asia,1992,Public,Distance,650000,https://en.wikipedia.org/wiki/Bangladesh
+9,Universitas Terbuka,"Jakarta, Indonesia",Asia,1984,Public,Distance,646467,https://en.wikipedia.org/wiki/Indonesia
+10,National Technological Institute of Mexico,Mexico,North America,1948,Public,In-Person,620000,https://en.wikipedia.org/wiki/Mexico
+11,Savitribai Phule Pune University,"Pune, Maharashtra, India",Asia,1948,Public,In-Person,665000,https://en.wikipedia.org/wiki/India
+12,Chaudhary Charan Singh University,"Meerut, Uttar Pradesh, India",Asia,1965,Public,In-Person,560000,https://en.wikipedia.org/wiki/India
+13,University of Mumbai,"Mumbai, Maharashtra, India",Asia,1857,Public,In-Person,549432,https://en.wikipedia.org/wiki/India
+14,Ramkhamhaeng University,"Bangkok, Thailand",Asia,1971,Public,In-Person,525000,https://en.wikipedia.org/wiki/Thailand
+15,National Open University of Nigeria,Nigeria,Africa,2002,Public,Distance,515000,https://en.wikipedia.org/wiki/Nigeria
+16,California State University system,"California, United States",North America,1857,Public,In-Person,457992,https://en.wikipedia.org/wiki/United_States
+17,Tribhuvan University,"Kirtipur, Nepal",Asia,1959,Public,In-Person,454065,https://en.wikipedia.org/wiki/Nepal
+18,University of the Punjab,"Lahore, Punjab, Pakistan",Asia,1882,Public,In-Person,450000,https://en.wikipedia.org/wiki/Pakistan
+19,Dr. B R Ambedkar Open University,"Telangana, India",Asia,1982,Public,Distance,450000,https://en.wikipedia.org/wiki/India
+20,State University System of Florida,"Florida, United States",North America,1954,Public,In-Person,430000,https://en.wikipedia.org/wiki/United_States
+21,University System of Ohio,"Ohio, United States",North America,2007,Public,In-Person,429310,https://en.wikipedia.org/wiki/United_States
+22,University of Delhi,"Delhi, India",Asia,1922,Public,In-Person/Distance,700000,https://en.wikipedia.org/wiki/India
+23,Payame Noor University,Iran,Asia,1987,Public,Distance/In-Person,400000,https://en.wikipedia.org/wiki/Iran
+24,Sikkim Manipal University,"Sikkim, India",Asia,1995,Private,In-Person,390000,https://en.wikipedia.org/wiki/India
+25,University of South Africa,"Pretoria, Gauteng, South Africa",Africa,1873,Public,Distance,370,https://en.wikipedia.org/wiki/South_Africa
+26,State University of New York system,"New York, United States",North America,1948,Public,In-Person,363612,https://en.wikipedia.org/wiki/United_States
+27,National Autonomous University of Mexico,"Mexico City, Mexico",North America,1551,Public,In-Person,356530,https://en.wikipedia.org/wiki/Mexico
+28,National Centre for Distance Education,France,Europe,1939,Public,Distance,350000,https://en.wikipedia.org/wiki/France
+29,University System of Georgia,"Georgia, United States",North America,1931,Public,In-Person,318027,https://en.wikipedia.org/wiki/United_States
+30,University of Buenos Aires,"Buenos Aires, Argentina",South America,1821,Public,In-Person,316050,https://en.wikipedia.org/wiki/Argentina
+30,Minnesota State Colleges and Universities,"Minnesota, United States",North America,1995,Public,In-Person,300000,https://en.wikipedia.org/wiki/United_States
+31,Osmania University,"Hyderabad, Telangana, India",Asia,1918,Public,In-Person,300000,https://en.wikipedia.org/wiki/India
+32,National University of Distance Education,Spain,Europe,1972,Public,Distance/In-Person,260079,https://en.wikipedia.org/wiki/Spain
+33,Rajiv Gandhi Technical University,"Bhopal, Madhya Pradesh, India",Asia,1998,Public,In-Person,260000,https://en.wikipedia.org/wiki/India
+34,Cairo University,"Giza, Egypt",Africa,1908,Public,In-Person,257200,https://en.wikipedia.org/wiki/Egypt
+35,University of California system,"California, United States",North America,1869,Public,In-Person,256000,https://en.wikipedia.org/wiki/United_States
+36,City University of New York,"New York, United States",North America,1961,Public,In-Person,243000,https://en.wikipedia.org/wiki/United_States
+37,University of North Carolina system,"North Carolina, United States",North America,1789,Public,In-Person,242000,https://en.wikipedia.org/wiki/United_States
+38,University of Texas System,"Texas, United States",North America,1881,Public,In-Person,221337,https://en.wikipedia.org/wiki/United_States
+39,Estácio de Sá University,"Rio de Janeiro, Rio de Janeiro, Brazil",South America,1970,Private,In-Person,215000,https://en.wikipedia.org/wiki/Brazil
+40,University of Guadalajara,"Guadalajara, Jalisco, Mexico",North America,1791,Public,In-Person,209406,https://en.wikipedia.org/wiki/Mexico
+41,University of Nuevo León,"Monterrey, Nuevo León, Mexico",North America,1933,Public,In-Person,206000,https://en.wikipedia.org/wiki/Mexico
+42,Open University,"Milton Keynes, United Kingdom",Europe,1969,Public,Distance/In-Person,205420,https://en.wikipedia.org/wiki/United_Kingdom
+43,University of Applied Science and Technology,Iran,Asia,1992,Public,In-Person,200000,https://en.wikipedia.org/wiki/Iran
+44,Technical College System of Georgia,"Georgia, United States",North America,1970,Public,In-Person,191567,https://en.wikipedia.org/wiki/United_States
+45,Utah System of Higher Education,"Utah, United States",North America,1894,Public,In-Person,189351,https://en.wikipedia.org/wiki/United_States
+46,Russian Presidential Academy of National Economy and Public Administration,"Moscow, Russian Federation",Europe,1977,Public,In-Person,180000,https://en.wikipedia.org/wiki/Russia
+47,King Abdulaziz University,"Jeddah, Saudi Arabia",Asia,1976,Public,In-Person,177234,https://en.wikipedia.org/wiki/Saudi_Arabia
+48,Technical and Vocational University,Iran,Asia,1965,Public,In-Person,175000,https://en.wikipedia.org/wiki/Iran
+49,National Polytechnic Institute,"Mexico City, Mexico",North America,1936,Public,In-Person,171581,https://en.wikipedia.org/wiki/Mexico
+50,Autonomous University of Santo Domingo,Santo Domingo,North America,1538,Public,In-Person,170530,https://en.wikipedia.org/wiki/Dominican_Republic
+51,Ain Shams University,"Cairo, Egypt",Africa,1950,Public,In-Person,170000,https://en.wikipedia.org/wiki/Egypt
+52,University of London,"London, United Kingdom",Europe,1836,Public,In-Person,170000,https://en.wikipedia.org/wiki/United_Kingdom
+53,Southern New Hampshire University,"New Hampshire, United States",North America,1932,Private,Distance/In-Person,170000,https://en.wikipedia.org/wiki/United_States
+54,Illinois Board of Higher Education,"Illinois, United States",North America,1862,Public,In-Person,163786,https://en.wikipedia.org/wiki/United_States
+55,University of Wisconsin System,"Wisconsin, United States",North America,1848,Public,In-Person,162933,https://en.wikipedia.org/wiki/United_States
+56,Universiti Teknologi MARA,"Shah Alam, Malaysia",Asia,1956,Public,In-Person,160957,https://en.wikipedia.org/wiki/Malaysia
+57,University of the People,"California, United States",North America,2009,Private,Distance,152000,https://en.wikipedia.org/wiki/United_States
+58,Korea National Open University,South Korea,Asia,1972,Public,Distance/In-Person,151413,https://en.wikipedia.org/wiki/South_Korea
+59,Dr. A.P.J. Abdul Kalam Technical University,"Lucknow, Uttar Pradesh, India",Asia,2000,Public,In-Person,150000,https://en.wikipedia.org/wiki/India
+60,Madhya Pradesh Bhoj Open University,"Bhopal, Madhya Pradesh, India",Asia,1991,Public,Distance,150000,https://en.wikipedia.org/wiki/India
+61,Sapienza University of Rome,"Rome, Italy",Europe,1303,Public,In-Person,147000,https://en.wikipedia.org/wiki/Italy
+62,University System of Maryland,"Maryland, United States",North America,1988,Public,In-Person,144363,https://en.wikipedia.org/wiki/United_States
+63,University of the Republic,"Montevideo, Uruguay",South America,1849,Public,In-Person,144108,https://en.wikipedia.org/wiki/Uruguay
+64,Norte do Paraná University,"Londrina, Paraná, Brazil",South America,1972,Private,Distance/In-Person,130000,https://en.wikipedia.org/wiki/Brazil
+65,IU International University of Applied Sciences,"Erfurt, Germany",Europe,1998,Private,Distance/In-Person,130000,https://en.wikipedia.org/wiki/Germany
+66,University of San Carlos of Guatemala,"Guatemala City, Guatemala",North America,1676,Public,In-Person,124000,https://en.wikipedia.org/wiki/Guatemala
+67,University of Lyon,"Lyon, France",Europe,2007,Public,In-Person,120000,https://en.wikipedia.org/wiki/France
+68,UNIMINUTO system,Colombia,South America,1990,Private,Distance/In-Person,116782,https://en.wikipedia.org/wiki/Colombia
+69,Texas A&M University System,"Texas, United States",North America,1876,Public,In-Person,114691,https://en.wikipedia.org/wiki/United_States
+70,National University of Córdoba,"Córdoba, Argentina",South America,1613,Public,In-Person,113558,https://en.wikipedia.org/wiki/Argentina
+71,Pennsylvania State System of Higher Education,"Pennsylvania, United States",North America,1982,Public,In-Person,110428,https://en.wikipedia.org/wiki/United_States
+72,Liberty University,"Virginia, United States",North America,1971,Private,Distance/In-Person,110000,https://en.wikipedia.org/wiki/United_States
+73,University of Toulouse,"Toulouse, France",Europe,1229,Public,In-Person,110000,https://en.wikipedia.org/wiki/France
+74,Université du Québec,"Quebec, Canada",North America,1968,Public,In-Person/Distance,101915,https://en.wikipedia.org/wiki/Canada
+75,Virtual University of Pakistan,"Lahore, Islamabad, Pakistan",Asia,2002,Public,Distance,100000,https://en.wikipedia.org/wiki/Pakistan
+76,"Vietnam National University, Ho Chi Minh City","Ho Chi Minh City, Vietnam",Asia,1995,Public,In-Person,98648,https://en.wikipedia.org/wiki/Vietnam
+77,University of Belgrade,"Belgrade, Serbia",Europe,1808,Public,In-Person,97696,https://en.wikipedia.org/wiki/Serbia
+78,University of Vienna,"Vienna, Austria",Europe,1365,Public,In-Person,91715,https://en.wikipedia.org/wiki/Austria
+79,Monterrey Institute of Technology and Higher Education,"Monterrey, Nuevo León, Mexico",North America,1943,Private,In-Person,91200,https://en.wikipedia.org/wiki/Mexico
+80,University of Toronto,"Toronto, Canada",North America,1827,Public,In-Person,88766,https://en.wikipedia.org/wiki/Canada
+81,Aristotle University of Thessaloniki,"Thessaloniki, Greece",Europe,1925,Public,In-Person,88283,https://en.wikipedia.org/wiki/Greece
+82,Polytechnic University of the Philippines,Philippines,Asia,1904,Public,Distance/In-Person,83328,https://en.wikipedia.org/wiki/Philippines
+83,Complutense University of Madrid,"Madrid, Spain",Europe,1293,Public,In-Person,83000,https://en.wikipedia.org/wiki/Spain
+84,Farhangian University,Iran,Asia,2012,Public,In-Person,80000,https://en.wikipedia.org/wiki/Iran
+85,Aix-Marseille University,"Marseille, France",Europe,1409,Public,In-Person,80000,https://en.wikipedia.org/wiki/France
+86,University of Hagen,"Hagen, Germany",Europe,1974,Public,Distance,69982,https://en.wikipedia.org/wiki/Germany
+87,Université de Montréal,Canada,North America,1878,Public,Distance/In-Person,67109,https://en.wikipedia.org/wiki/Canada
+88,University of the Philippines,Philippines,Asia,1908,Public,Distance/In-Person,64144,https://en.wikipedia.org/wiki/Philippines
+89,"Academic Center for Education, Culture and Research",Iran,Asia,1980,Private,In-Person,60000,https://en.wikipedia.org/wiki/Iran
